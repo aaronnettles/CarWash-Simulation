@@ -1,0 +1,42 @@
+
+
+Do you wish to run a car-wash simulation? (y/n) y
+
+Enter the total time for the simulation: 100
+Enter the wash time for each vehicle: 10
+Enter the proportion probability that a driver will seek to recieve a washing: 0.1
+
+number of vehicles washed: 18
+number of vehicles turned away: 6
+average waiting time: 21
+
+Do you wish to run another car-wash simulation? (y/n) y
+
+Enter the total time for the simulation: 500
+Enter the wash time for each vehicle: 10
+Enter the proportion probability that a driver will seek to recieve a washing: 0  
+
+number of vehicles washed: 0
+number of vehicles turned away: 0
+
+Do you wish to run another car-wash simulation? (y/n) y
+
+Enter the total time for the simulation: 500
+Enter the wash time for each vehicle: 10
+Enter the proportion probability that a driver will seek to recieve a washing: 0.5
+
+number of vehicles washed: 100
+number of vehicles turned away: 260
+average waiting time: 209
+
+Do you wish to run another car-wash simulation? (y/n) y
+
+Enter the total time for the simulation: 100
+Enter the wash time for each vehicle: 10
+Enter the proportion probability that a driver will seek to recieve a washing: 1
+
+number of vehicles washed: 20
+number of vehicles turned away: 141
+average waiting time: 61
+
+Do you wish to run another car-wash simulation? (y/n) 
